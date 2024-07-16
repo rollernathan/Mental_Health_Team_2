@@ -7,8 +7,7 @@ Stacey's Part
 Question: 
 Does the difficulty/ease of taking mental health leave from work affect whether or not employees seek treatment?
 
-![Ease of Taking Leave]
-(https://github.com/rollernathan/Mental_Health_Team_2/blob/main/Project%201_images/P1_Graph_EaseOfLeave.png)
+![Ease of Taking Leave](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/Project%201_images/P1_Graph_EaseOfLeave.png)
 
 Summary: 
 A review of the dataset shows a correlation between the ease of taking mental health leave and whether or not a person gets treatment. As shown in the bar chart, the majority of employees are unsure what their company's mental health leave policy entails. This could be for a variety of reasons, including a lack of need/interest on the part of the employee, or a lack of communication from management. The latter implies that mental health is not at the forefront of the organization, while the former could happen for a variety of reasons. Of the respondents, the ones who answered "Don't Know" are the only group that had less employees taking leave than not.
