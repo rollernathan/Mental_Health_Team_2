@@ -3,9 +3,13 @@ Project 1 Repo for Team 2
 
 
 Project participants:
+
 Nishi Thapliyal
+
 Nathan Roller
+
 Stacey Walker
+
 Darell Johnson
 
 
