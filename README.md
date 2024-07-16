@@ -24,8 +24,8 @@ Survey link: https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey/d
 
 1. Does remote vs. onsite work affect mental health in the workplace?
 2. How does mental health impact work performance?
-3. Is there a relationship between the level of difficulty of taking leave and mental health outcomes? 
-4. What is the impact of company size on mental health?
+3. Does the difficulty/ease of taking mental health leave from work affect whether or not employees seek treatment? 
+4. Does company size impact whether or not an employee seeks mental health treatment?
 5. Are mental health programs implemented by companies effective?
 6. Is the number of people seeking treatment randomly distributed?
 7. Is there a relationship between age and seeking treatment?
