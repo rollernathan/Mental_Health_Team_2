@@ -22,8 +22,7 @@ Though many of the datapoints are still relative today, mental health is a rapid
 Question:
 Does company size impact whether or not an employee seeks mental health treatment? 
 
-![Company Size and Mental Health Treatment]
-(https://github.com/rollernathan/Mental_Health_Team_2/blob/s_walker/Project%201_images/P1_Graph_Company_Size.png)
+![Company Size and Mental Health Treatment](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/Project%201_images/P1_Graph_Company_Size.png)
 
 Summary:
 Employees are willing to seek mental health treatment regardless of the size of the company, with the exception of companies that have 1000+ employees, which had an even number people who answered "yes" and "no" to seeking mental health treatment.
@@ -32,8 +31,7 @@ People working for smaller companies had more willingness to seek treatment, whi
 
 In addition to the graph, the boxplot shows that more employees sought treatment overall than those who did not. 
 
-![Boxplot Overall Sought Treatment]
-(https://github.com/rollernathan/Mental_Health_Team_2/blob/s_walker/Project%201_images/Box%20plot.png)
+![Boxplot Overall Sought Treatment](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/Project%201_images/Box%20plot.png)
 
 Limitations:
 Companies with 500-1000 employees are underrepresented in this dataset. Despite the underrepresentation, however, the results follow the same trend as the other populations.
