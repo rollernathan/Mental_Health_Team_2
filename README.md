@@ -123,17 +123,21 @@ Objectives
 Primary Hypothesis: Self-employed individuals are less likely to seek mental health treatment compared to employed individuals.
 
 Employment Status:
-o	The analysis shows no substantial difference in mental health treatment-seeking behavior between self-employed and employed individuals.
-o	Bar Graph: The number of self-employed individuals seeking treatment is slightly higher than those not seeking treatment. For employed individuals, the numbers are almost equal.
+The analysis shows no substantial difference in mental health treatment-seeking behavior between self-employed and employed individuals.
+
+Bar Graph: The number of self-employed individuals seeking treatment is slightly higher than those not seeking treatment. For employed individuals, the numbers are almost equal.
 ![Employment](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/Treatment%20Vs%20Employment%20Bar.png)
 
 ### 9. Is there a relationship between the family history of mental health and the behavior of those seeking mental health treatment?
 Primary Hypothesis: Individuals with a family history of mental health issues are more likely to seek mental health treatment compared to those without such a history.
-Findings
+
+**Findings**
 
 Family History:
 Individuals with a family history of mental health issues are significantly more likely to seek treatment compared to those without such a history.
+
 Bar Graph: Individuals with a family history seeking treatment significantly outnumber those not seeking treatment, and the opposite is true for individuals without a family history.
+
 ![Family Bar](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/Family%20History%20vs%20Seeking%20Treatment%20Bar.png)
 Heat Map: Supports the finding that family history influences treatment-seeking behavior.
 ![Family Heat Map](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/HeatMap.png)
