@@ -1,5 +1,6 @@
 # Mental_Health_Team_2
 Project 1 Repo for Team 2
+<<<<<<< HEAD
 Mental Health Analysis README
 Overview
 This project aims to analyze the relationship between family history of mental health issues, employment status, and the likelihood of seeking mental health treatment. The analysis employs various statistical tests and visualizations to identify patterns and significant factors.
@@ -28,3 +29,7 @@ Conclusion
 •	Family history significantly influences the likelihood of seeking mental health treatment, whereas employment status does not appear to be a strong determinant.
 •	These insights can guide further research and targeted interventions in mental health services, emphasizing the importance of family history in shaping treatment-seeking behavior.
 This project provides a comprehensive analysis of the factors influencing mental health treatment-seeking behavior, with a focus on family history and employment status. 
+=======
+
+Nathan's part here
+>>>>>>> 9dd1221cc63092a0c578974adc25a212aa3b4b7b
