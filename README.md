@@ -140,11 +140,18 @@ Heat Map: Supports the finding that family history influences treatment-seeking 
 Violin Plot: Shows a higher density of treatment-seeking behavior among individuals with a family history.
 ![Family Violin](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/Family%20History%20vs%20Seeking%20Treatment%20Violin.png)
 Statistical Analysis
+
 **T-test:**
+
 T-statistic: 14.755
+
 P-value: 3.919e-45
+
 **Conclusion**
+
 Family history significantly influences the likelihood of seeking mental health treatment, whereas employment status does not appear to be a strong determinant.
+
 These insights can guide further research and targeted interventions in mental health services, emphasizing the importance of family history in shaping treatment-seeking behavior.
+
 This project provides a comprehensive analysis of the factors influencing mental health treatment-seeking behavior, with a focus on family history and employment status. 
 
