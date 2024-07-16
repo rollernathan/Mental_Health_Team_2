@@ -1,6 +1,7 @@
 # Mental_Health_Team_2
 Project 1 Repo for Team 2
 
+
 Stacey's Part
 
 Question: 
@@ -39,3 +40,6 @@ Limitations:
 Companies with 500-1000 employees are underrepresented in this dataset. Despite the underrepresentation, however, the results follow the same trend as the other populations.
 
 Additionally, the data does not offer much information about the company other than size, so there are many unknowns about the workplaces. 
+=======
+
+
