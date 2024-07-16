@@ -53,7 +53,7 @@ o	Bar Graph: Individuals with a family history seeking treatment significantly o
 o	Heat Map: Supports the finding that family history influences treatment-seeking behavior.
 ![Family Heat Map](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/HeatMap.png)
 o	Violin Plot: Shows a higher density of treatment-seeking behavior among individuals with a family history.
-![Family Violin](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/Family%20History%20vs%20Seeking%20Treatment%20Violin.png
+![Family Violin](https://github.com/rollernathan/Mental_Health_Team_2/blob/main/djohnson/Images/Family%20History%20vs%20Seeking%20Treatment%20Violin.png)
 Statistical Analysis
 •	T-test:
 o	T-statistic: 14.755
